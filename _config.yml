@@ -1,0 +1,28 @@
+name: childPhotographer
+favicon: null
+layout_spectrum: 0.5935159611981362
+typography_spectrum: 0.29686298058368266
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6835438078269362
+  lightness: 0.2760651195421815
+  saturation: 0.6717231124639511
+  rhythmicContrast: 0.46061606192961335
+purpose: []
