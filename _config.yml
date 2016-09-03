@@ -1,19 +1,4 @@
-name: childPhotographer
-favicon: null
-layout_spectrum: 0.5935159611981362
 typography_spectrum: 0.29686298058368266
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,20 @@ color:
   lightness: 0.2760651195421815
   saturation: 0.6717231124639511
   rhythmicContrast: 0.46061606192961335
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5935159611981362
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: childPhotographer
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Clare Ahalt Photography
 purpose: []
